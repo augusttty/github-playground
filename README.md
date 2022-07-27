@@ -11,3 +11,5 @@ some great features
 📌
 
 ### config your github account
+
+commit from a dev branch in a forked repository
